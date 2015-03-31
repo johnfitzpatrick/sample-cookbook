@@ -2,4 +2,4 @@
 
 Re-creation of clowns/bears from Chef Fundamentals
 
-MOAR Features!
+MOAR Features - johnf!!
